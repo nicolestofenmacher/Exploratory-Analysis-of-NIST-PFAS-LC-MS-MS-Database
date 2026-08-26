@@ -24,7 +24,7 @@ This project explores PFAS liquid chromatography–tandem mass spectrometry (LC-
 
 The complete analysis, including database exploration, SQL queries, Python code, visualizations, and interpretation of results, is available in the Jupyter Notebook:
 
-**[View the full analysis](_NIST_PFAS_LCMSMS_Exploratory_Analysis.ipynb)**
+**[View the full analysis](NIST_PFAS_LCMSMS_Exploratory_Analysis.ipynb)**
 
 ## Data Source
 
